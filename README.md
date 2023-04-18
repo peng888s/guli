@@ -7,5 +7,7 @@ java程序
 # guli --> vs --> starter-template-master
 呈现给用户展示
 
+# 项目介绍
 前后台页面采用element-ui组件
-启动：npm run dev
+guli_paren采用：ssm springboot  springcloud  springsecurity
+前后台启动：npm run dev
