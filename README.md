@@ -3,9 +3,9 @@
 # guli --> guli_parent
 java程序
 # guli --> vs --> vue-admin-template
-后台管理员所用
+管理端
 # guli --> vs --> starter-template-master
-呈现给用户展示
+用户端
 
 # 项目介绍
 前后台页面采用element-ui组件
